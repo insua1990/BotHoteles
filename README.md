@@ -14,7 +14,7 @@ El tema principal del proyecto es la creación de un bot en Python que recoja y 
 - Bases de datos para almacenamiento.
 - API Bot Telegram para comunicación.
 - Análisis.
-- Amazon Web Service para desarrollo.
+- Amazon Web Service para desarrollo. 
 
 **Posibles colaboradores**
 
